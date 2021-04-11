@@ -26,15 +26,22 @@ Kernels used in SVM :
 ![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/Feature_extraction.png)
 
 ### Results for different User
+
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User4_log.png)
+
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User4_cm.png)
+
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User5_log.png)
+
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User5_cm.png)
+
 ![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/results_for_User-1.png)
+
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User1_cm.jpg)
 
 ![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/results_for_User-2.png)
 
-![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/Confusion_Mat_for_user-0.png)
-
 ![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/results_for_User-3.png)
-
-![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User1_cm.jpg)
 
 ### Team Members : [Jeet Shah](https://github.com/jds311) | [Manav Vagrecha](https://github.com/caped-crusader16) | [Parth Patel](https://github.com/parth-27) | [Shreyansh Shah](https://github.com/shreyanshshah27)
 
