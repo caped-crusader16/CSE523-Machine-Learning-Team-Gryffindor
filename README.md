@@ -27,13 +27,13 @@ Kernels used in SVM :
 
 ### Results for different User
 
-![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User4_log.png)
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User4_log.jpg)
 
-![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User4_cm.png)
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User4_cm.jpg)
 
-![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User5_log.png)
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User5_log.jpg)
 
-![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User5_cm.png)
+![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/User5_cm.jpg)
 
 ![alt text](https://github.com/caped-crusader16/CSE523-Machine-Learning-Team-Gryffindor/blob/main/Results/results_for_User-1.png)
 
