@@ -12,7 +12,7 @@ Given a user with his/her previously read articles, we would like to recommend n
 Machine Learning Algorithms :
 
 - SVM
-- Cosine Simlarity
+- Cosine Similarity
 
 Kernels used in SVM :
 
