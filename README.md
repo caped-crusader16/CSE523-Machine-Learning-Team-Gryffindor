@@ -1,4 +1,4 @@
-# Recommendation-System-using-Content-based-Filtering-for-News-dataset
+# News-Recommendation-System-using-Content-based-Filtering
 
 ## Introduction
 Finding relevant and interesting news from a large corpus of news can be a difficult, time-consuming and irritating process.
