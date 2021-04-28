@@ -1,8 +1,4 @@
-# CSE523-Machine-Learning-Team-Gryffindor
-
-This repository contains the final project for the CSE523 Machine Learning Course. 
-
-# News-Recommendation-System-using-SVM
+# Recommendation-System-using-Content-based-Filtering-for-News-dataset
 
 ## Introduction
 Finding relevant and interesting news from a large corpus of news can be a difficult, time-consuming and irritating process.
